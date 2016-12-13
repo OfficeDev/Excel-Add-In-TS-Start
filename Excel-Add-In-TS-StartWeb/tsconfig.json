@@ -1,0 +1,14 @@
+﻿{
+  "compilerOptions": {
+    "target": "es5", 
+    "sourceMap": true,   
+    "noEmitOnError": true,
+    "lib": [
+      "dom",
+      "es2015"
+    ]
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

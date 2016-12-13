@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Excel-Add-In-TS-StartManifest.xml
+C:\Users\smkhor\Source\Repos\Excel-Add-In-TS-Start\Excel-Add-In-TS-Start\bin\Debug\Excel-Add-In-TS-Start.debugapp

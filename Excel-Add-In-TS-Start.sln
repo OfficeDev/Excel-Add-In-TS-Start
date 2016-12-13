@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel-Add-In-TS-Start", "Excel-Add-In-TS-Start\Excel-Add-In-TS-Start.csproj", "{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excel-Add-In-TS-StartWeb", "Excel-Add-In-TS-StartWeb\Excel-Add-In-TS-StartWeb.csproj", "{7DC45D89-9D8C-4EC3-8BB4-544D921EE942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A86B31-D47B-4EAC-9F97-F9373FFDFEBC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7DC45D89-9D8C-4EC3-8BB4-544D921EE942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DC45D89-9D8C-4EC3-8BB4-544D921EE942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DC45D89-9D8C-4EC3-8BB4-544D921EE942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DC45D89-9D8C-4EC3-8BB4-544D921EE942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
