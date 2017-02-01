@@ -74,6 +74,8 @@ February 2017
 
 For your reference, the Home.ts code is as follows (with minimal change just enough to get it to run):
 
+> **Note**:  For the fully converted JavaScript to TypeScript code see [Excel-Add-In-TS-StartWeb/Home.ts](https://github.com/OfficeDev/Excel-Add-In-TS-Start/blob/master/Excel-Add-In-TS-StartWeb/Home.ts). 
+
 ```
 declare var fabric: any;
 
@@ -207,7 +209,9 @@ declare var fabric: any;
         messageBanner.showBanner();
         messageBanner.toggleExpansion();
     }
-})();```
+})();
+
+```
 
 ## Questions and comments
 
