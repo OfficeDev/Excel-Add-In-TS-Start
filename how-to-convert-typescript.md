@@ -12,7 +12,7 @@ Learn how to convert Visual Studio Excel JavaScript add-in taskpane template to 
 
 ## Change history
 
-February 2017:
+February 2017
 
 * Initial version.
 
