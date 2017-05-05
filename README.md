@@ -11,7 +11,7 @@ Learn how to convert Visual Studio Excel JavaScript add-in template to TypeScrip
 
 ## Change history
 
-December, 2016:
+December 2016:
 
 * Initial version.
 
