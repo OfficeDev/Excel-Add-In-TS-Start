@@ -1,4 +1,4 @@
-# <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>TypeScripting der JavaScript-Add-In-Vorlage für Excel in Visual Studio
+﻿# <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>TypeScripting der JavaScript-Add-In-Vorlage für Excel in Visual Studio
 
 Erfahren Sie, wie Sie die JavaScript-Add-In-Vorlage für Excel in Visual Studio in TypeScript konvertieren. 
 
@@ -42,9 +42,8 @@ Wir schätzen Ihr Feedback hinsichtlich dieses Beispiels. Sie können uns Ihr Fe
 Fragen zur Microsoft Office 365-Entwicklung sollten in [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API) gestellt werden. Wenn Ihre Frage die Office JavaScript-APIs betrifft, sollte die Frage mit [office-js] und [API] kategorisiert sein.
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
-
-* 
-  [Dokumentation zu Office-Add-Ins](https://msdn.microsoft.com/en-us/library/office/jj220060.aspx)
+
+* [Dokumentation zu Office-Add-Ins](https://msdn.microsoft.com/en-us/library/office/jj220060.aspx)
 * [Office Dev Center](http://dev.office.com/)
 * Weitere Office-Add-In-Beispiele unter [OfficeDev auf Github](https://github.com/officedev)
 
