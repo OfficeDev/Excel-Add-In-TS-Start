@@ -22,7 +22,7 @@
 * [Microsoft Visual Studio 2015 Update 3 累积服务版本 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * 适用于安装 Microsoft Visual Studio 2015 Update 3 后的 [Visual Studio 2015 的 TypeScript 2.1](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe)。
 
-   > **注意：**若要详细了解如何安装 TypeScript 2.1，请参阅[宣布推出 TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)。
+   > **注意：**  若要详细了解如何安装 TypeScript 2.1，请参阅[宣布推出 TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)。
 
 * Excel 2016。
 
@@ -36,7 +36,7 @@
 
 ## <a name="questions-and-comments"></a>问题和意见
 
-我们乐意倾听你对此示例的反馈。可以在此存储库中的“问题”**部分向我们发送反馈。
+我们乐意倾听你对此示例的反馈。你可以在此存储库中的“*问题*”部分向我们发送反馈。
 
 与 Microsoft Office 365 开发相关的一般问题应发布到 [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API)。如果你的问题是关于 Office JavaScript API，请务必为问题添加 [office-js] 和 [API].标记。
 
@@ -47,5 +47,8 @@
 * 有关更多 Office 外接程序示例，请访问 [Github 上的 OfficeDev](https://github.com/officedev)。
 
 ## <a name="copyright"></a>版权
-版权所有 © 2016 Microsoft Corporation。保留所有权利。
+版权所有 (c) 2016 Microsoft Corporation。保留所有权利。
 
+
+
+此项目已采用 [Microsoft 开放源代码行为准则](https://opensource.microsoft.com/codeofconduct/)。有关详细信息，请参阅[行为准则 FAQ](https://opensource.microsoft.com/codeofconduct/faq/)。如有其他任何问题或意见，也可联系 [opencode@microsoft.com](mailto:opencode@microsoft.com)。

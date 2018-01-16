@@ -19,7 +19,8 @@ Dezember 2016:
 
 * Visual Studio 2015 oder höher.
 * [Office Developer Tools für Visual Studio](https://www.visualstudio.com/en-us/features/office-tools-vs.aspx)
-* [Kumuliertes Service Release für Microsoft Visual Studio 2015 Update 3 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
+* 
+  [Kumuliertes Service Release für Microsoft Visual Studio 2015 Update 3 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * [TypeScript 2.1 für Visual Studio 2015](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe) nach der Installation von Microsoft Visual Studio 2015 Update 3.
 
    > **Hinweis:**  Weitere Informationen zum Installieren von TypeScript 2.1 finden Sie unter [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/).
@@ -42,10 +43,14 @@ Fragen zur Microsoft Office 365-Entwicklung sollten in [Stack Overflow](http://s
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
 
-* [Dokumentation zu Office-Add-Ins](https://msdn.microsoft.com/en-us/library/office/jj220060.aspx)
+* 
+  [Dokumentation zu Office-Add-Ins](https://msdn.microsoft.com/en-us/library/office/jj220060.aspx)
 * [Office Dev Center](http://dev.office.com/)
 * Weitere Office-Add-In-Beispiele unter [OfficeDev auf Github](https://github.com/officedev)
 
 ## <a name="copyright"></a>Copyright
 Copyright (c) 2016 Microsoft Corporation. Alle Rechte vorbehalten.
 
+
+
+In diesem Projekt wurden die [Microsoft Open Source-Verhaltensregeln](https://opensource.microsoft.com/codeofconduct/) übernommen. Weitere Informationen finden Sie unter [Häufig gestellte Fragen zu Verhaltensregeln](https://opensource.microsoft.com/codeofconduct/faq/), oder richten Sie Ihre Fragen oder Kommentare an [opencode@microsoft.com](mailto:opencode@microsoft.com).

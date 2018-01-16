@@ -22,7 +22,7 @@ Décembre 2016 :
 * [Publication de service cumulative pour la mise à jour 3 de Microsoft Visual Studio 2015 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * [TypeScript 2.1 pour Visual Studio 2015](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe) après l’installation de la mise à jour 3 de Microsoft Visual Studio 2015.
 
-   > **Remarque :**  Pour plus d’informations sur l’installation de TypeScript 2.1, reportez-vous à l’article relatif à la [publication de TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/).
+   > **Remarque :** Pour plus d’informations sur l’installation de TypeScript 2.1, reportez-vous à l’article relatif à la [publication de TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/).
 
 * Excel 2016.
 
@@ -38,7 +38,7 @@ Décembre 2016 :
 
 Nous serions ravis de connaître votre opinion sur cet exemple. Vous pouvez nous envoyer vos commentaires via la section *Problèmes* de ce référentiel.
 
-Les questions générales sur le développement de Microsoft Office 365 doivent être publiées sur [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API). Si votre question concerne les API Office JavaScript, assurez-vous qu’elle est marquée avec les balises [office js] et [API].
+Les questions générales sur le développement de Microsoft Office 365 doivent être publiées sur [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API). Si votre question concerne les API Office JavaScript, assurez-vous qu’elle est marquée avec les balises [office-js] et [API].
 
 ## <a name="additional-resources"></a>Ressources supplémentaires
 
@@ -47,5 +47,8 @@ Les questions générales sur le développement de Microsoft Office 365 doivent
 * Plus d’exemples de complément Office sur [OfficeDev sur Github](https://github.com/officedev)
 
 ## <a name="copyright"></a>Copyright
-Copyright (c) 2016 Microsoft Corporation. Tous droits réservés.
+Copyright (c) 2016 Microsoft Corporation. Tous droits réservés.
 
+
+
+Ce projet a adopté le [code de conduite Open Source de Microsoft](https://opensource.microsoft.com/codeofconduct/). Pour plus d’informations, reportez-vous à la [FAQ relative au code de conduite](https://opensource.microsoft.com/codeofconduct/faq/) ou contactez [opencode@microsoft.com](mailto:opencode@microsoft.com) pour toute question ou tout commentaire.

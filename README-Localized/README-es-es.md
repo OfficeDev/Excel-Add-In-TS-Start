@@ -22,7 +22,7 @@ Diciembre de 2016:
 * [Versión de mantenimiento acumulativo para Microsoft Visual Studio 2015 Update 3 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * [TypeScript 2.1 para Visual Studio 2015](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe) después de instalar Microsoft Visual Studio 2015 Update 3.
 
-   > **Nota**:  Para obtener más información sobre la instalación de TypeScript 2.1, consulte [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/) (Presentación de TypeScript 2.1)
+   > **Nota:**  Para obtener más información sobre la instalación de TypeScript 2.1, consulte [Presentación de TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/).
 
 * Excel 2016.
 
@@ -49,3 +49,6 @@ Las preguntas generales sobre el desarrollo de Microsoft Office 365 deben public
 ## <a name="copyright"></a>Copyright
 Copyright (c) 2016 Microsoft Corporation. Todos los derechos reservados.
 
+
+
+Este proyecto ha adoptado el [Código de conducta de código abierto de Microsoft](https://opensource.microsoft.com/codeofconduct/). Para obtener más información, consulte las [preguntas más frecuentes sobre el Código de conducta](https://opensource.microsoft.com/codeofconduct/faq/) o póngase en contacto con [opencode@microsoft.com](mailto:opencode@microsoft.com) si tiene otras preguntas o comentarios.

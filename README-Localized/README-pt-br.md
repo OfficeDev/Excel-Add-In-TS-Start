@@ -22,7 +22,7 @@ Dezembro de 2016:
 * [Versão de Serviço Cumulativa para Microsoft Visual Studio 2015 Atualização 3 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * [TypeScript 2.1 para Visual Studio 2015](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe) após a instalação do Microsoft Visual Studio 2015 Atualização 3.
 
-   > **Observação:**  Para mais informações sobre como instalar o TypeScript 2.1, confira [Anunciando o TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/).
+   > **Observação:**  Para mais informações sobre como instalar o TypeScript 2.1, confira [Anunciando o TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)..
 
 * Excel 2016.
 
@@ -36,7 +36,7 @@ Dezembro de 2016:
 
 ## <a name="questions-and-comments"></a>Perguntas e comentários
 
-Gostaríamos de saber sua opinião sobre este exemplo. Você pode nos enviar comentários na seção *Problemas* deste repositório.
+Gostaríamos de saber sua opinião sobre este exemplo. Você pode nos enviar comentários na seção *Issues* deste repositório.
 
 As perguntas sobre o desenvolvimento do Microsoft Office 365 em geral devem ser postadas no [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API). Se sua pergunta estiver relacionada às APIs JavaScript para Office, não deixe de marcá-la com as tags [office-js] e [API].
 
@@ -46,6 +46,9 @@ As perguntas sobre o desenvolvimento do Microsoft Office 365 em geral devem ser 
 * [Centro de Desenvolvimento do Office](http://dev.office.com/)
 * Confira outros exemplos de Suplemento do Office em [OfficeDev no Github](https://github.com/officedev)
 
-## <a name="copyright"></a>Direitos autorais
-Copyright (C) 2016 Microsoft Corporation. Todos os direitos reservados.
+## <a name="copyright"></a>Copyright
+Copyright (c) 2016 Microsoft Corporation. Todos os direitos reservados.
 
+
+
+Este projeto adotou o [Código de Conduta de Software Livre da Microsoft](https://opensource.microsoft.com/codeofconduct/). Para saber mais, confira as [Perguntas frequentes sobre o Código de Conduta](https://opensource.microsoft.com/codeofconduct/faq/) ou contate [opencode@microsoft.com](mailto:opencode@microsoft.com) se tiver outras dúvidas ou comentários.

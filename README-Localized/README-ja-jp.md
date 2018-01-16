@@ -22,7 +22,7 @@ Excel Visual Studio JavaScript アドイン テンプレートを TypeScript に
 * [Microsoft Visual Studio 2015 Update 3 の累積的なサービス リリース (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * Microsoft Visual Studio 2015 Update 3 のインストール後の [TypeScript 2.1 for Visual Studio 2015](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe)
 
-   > **注:**TypeScript 2.1 のインストールの詳細については、「[TypeScript 2.1 の発表](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)」を参照してください。
+   > **メモ:**  TypeScript 2.1 のインストールの詳細については、「[TypeScript 2.1 の発表](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/)」を参照してください。.
 
 * Excel 2016。
 
@@ -47,5 +47,8 @@ Microsoft Office 365 開発全般の質問につきましては、「[スタッ�
 * [Github の OfficeDev](https://github.com/officedev) にあるその他の Office アドイン サンプル
 
 ## <a name="copyright"></a>著作権
-Copyright (c) 2016 Microsoft Corporation. All rights reserved.
+Copyright (c) 2016 Microsoft Corporation.All rights reserved.
 
+
+
+このプロジェクトでは、[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/) が採用されています。詳細については、「[Code of Conduct の FAQ](https://opensource.microsoft.com/codeofconduct/faq/)」を参照してください。また、その他の質問やコメントがあれば、[opencode@microsoft.com](mailto:opencode@microsoft.com) までお問い合わせください。
