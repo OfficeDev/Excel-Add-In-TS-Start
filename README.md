@@ -1,3 +1,16 @@
+---
+topic: sample
+products:
+- Excel
+- Office 365
+languages:
+- JavaScript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 12/8/2016 9:16:02 PM
+---
 # TypeScripting Visual Studio Excel JavaScript add-in template
 
 Learn how to convert Visual Studio Excel JavaScript add-in template to TypeScript. 
