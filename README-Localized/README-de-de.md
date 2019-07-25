@@ -1,4 +1,17 @@
-﻿# <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>TypeScripting der JavaScript-Add-In-Vorlage für Excel in Visual Studio
+﻿---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 12/8/2016 9:16:02 PM
+---
+# <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>TypeScripting der JavaScript-Add-In-Vorlage für Excel in Visual Studio
 
 Erfahren Sie, wie Sie die JavaScript-Add-In-Vorlage für Excel in Visual Studio in TypeScript konvertieren. 
 
@@ -19,8 +32,7 @@ Dezember 2016:
 
 * Visual Studio 2015 oder höher.
 * [Office Developer Tools für Visual Studio](https://www.visualstudio.com/en-us/features/office-tools-vs.aspx)
-* 
-  [Kumuliertes Service Release für Microsoft Visual Studio 2015 Update 3 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
+* [Kumuliertes Service Release für Microsoft Visual Studio 2015 Update 3 (KB3165756)](https://msdn.microsoft.com/en-us/library/mt752379.aspx)
 * [TypeScript 2.1 für Visual Studio 2015](http://download.microsoft.com/download/6/D/8/6D8381B0-03C1-4BD2-AE65-30FF0A4C62DA/TS2.1-dev14update3-20161206.2/TypeScript_Dev14Full.exe) nach der Installation von Microsoft Visual Studio 2015 Update 3.
 
    > **Hinweis:**  Weitere Informationen zum Installieren von TypeScript 2.1 finden Sie unter [Announcing TypeScript 2.1](https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/).
@@ -42,8 +54,8 @@ Wir schätzen Ihr Feedback hinsichtlich dieses Beispiels. Sie können uns Ihr Fe
 Fragen zur Microsoft Office 365-Entwicklung sollten in [Stack Overflow](http://stackoverflow.com/questions/tagged/office-js+API) gestellt werden. Wenn Ihre Frage die Office JavaScript-APIs betrifft, sollte die Frage mit [office-js] und [API] kategorisiert sein.
 
 ## <a name="additional-resources"></a>Zusätzliche Ressourcen
-
 * [Dokumentation zu Office-Add-Ins](https://msdn.microsoft.com/en-us/library/office/jj220060.aspx)
+
 * [Office Dev Center](http://dev.office.com/)
 * Weitere Office-Add-In-Beispiele unter [OfficeDev auf Github](https://github.com/officedev)
 

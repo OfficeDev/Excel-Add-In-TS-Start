@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 12/8/2016 9:16:02 PM
+---
 # <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>Как в Visual Studio преобразовать шаблон надстроек Excel на JavaScript в шаблон надстроек на TypeScript
 
 Сведения о том, как в Visual Studio можно преобразовать код JavaScript в код TypeScript для шаблона надстроек Excel. 

@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 12/8/2016 9:16:02 PM
+---
 # <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>Modèle de complément JavaScript Excel Visual Studio TypeScripting
 
 Découvrez comment convertir un modèle de complément JavaScript Excel Visual Studio vers TypeScripting. 

@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 12/8/2016 9:16:02 PM
+---
 # <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>Excel Visual Studio JavaScript アドイン テンプレートを TypeScript にする
 
 Excel Visual Studio JavaScript アドイン テンプレートを TypeScript に変換する方法について説明します。 

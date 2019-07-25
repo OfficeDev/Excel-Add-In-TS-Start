@@ -1,3 +1,16 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-365
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Add-ins
+  createdDate: 12/8/2016 9:16:02 PM
+---
 # <a name="typescripting-visual-studio-excel-javascript-add-in-template"></a>TypeScripting Visual Studio Excel JavaScript 增益集範本
 
 了解如何將 Visual Studio Excel JavaScript 增益集範本轉換為 TypeScript。 
